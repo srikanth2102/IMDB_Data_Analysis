@@ -15,6 +15,7 @@ In this we make of publicly available data from IMDB to get insights from the da
 * IMDb rating            - This file contains details of rating details from demographic perspective.
 * IMDb names             - This file contains details of cast members with personal attributes such as birth details, death details, height, spouses, children, etc.
 * IMDb title_principals  - This file contains details of cast members roles in movies with attributes such as IMDb title id, IMDb name id, order of importance in the movie, role, and characters played.
+* For further details regarding the fields in each csv files visit the link mentioned above.
 
 ## Objectives
 We want to find the answers for the following data. We make use of SQL queries to get those data.
