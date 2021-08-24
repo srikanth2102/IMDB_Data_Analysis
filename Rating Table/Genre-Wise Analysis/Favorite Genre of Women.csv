@@ -1,0 +1,11 @@
+genre,AVG(rating.females_allages_avg_vote)
+Drama,6.505253932202898
+"Drama, Romance",6.450795951662464
+"Comedy, Drama",6.348180245160761
+"Crime, Drama",6.337006700722388
+"Comedy, Drama, Romance",6.311338859773129
+"Comedy, Romance",6.029944178590364
+"Drama, Thriller",5.964317503155869
+"Action, Crime, Drama",5.91297710278562
+Comedy,5.730066295177128
+Horror,4.503086414444383

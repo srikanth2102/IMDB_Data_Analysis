@@ -1,0 +1,11 @@
+genre,AVG(rating.allgenders_18age_avg_vote)
+Drama,6.444024557950612
+"Drama, Romance",6.377395079173849
+"Comedy, Drama",6.322035158291463
+"Crime, Drama",6.283693227231813
+"Comedy, Drama, Romance",6.2739206331555
+"Action, Crime, Drama",6.01603053517014
+"Comedy, Romance",5.942304623326616
+"Drama, Thriller",5.937166172425188
+Comedy,5.653126219244659
+Horror,4.422530858762681

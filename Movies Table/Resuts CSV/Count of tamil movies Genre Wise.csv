@@ -1,0 +1,101 @@
+genre,COUNT(genre)
+Drama,95
+"Crime, Drama, Romance",2
+"Drama, Romance",47
+"Crime, Drama",7
+"Action, Crime, Drama",21
+"Action, Comedy, Drama",20
+"Action, Drama, Romance",16
+"Family, Drama",1
+"Drama, Romance, Thriller",6
+"Drama, Musical, Romance",7
+"Action, Drama, Thriller",21
+"Biography, Drama",5
+"Action, Drama",56
+"Comedy, Musical",1
+"Comedy, Drama",33
+"Comedy, Drama, Romance",15
+"Crime, Mystery, Thriller",5
+Comedy,47
+Romance,28
+"Drama, Musical",3
+"Comedy, Romance",32
+"Drama, Music",2
+"Comedy, Thriller",3
+"Drama, Family, Musical",2
+"Action, Adventure",5
+"Biography, Drama, History",1
+"Action, Comedy, Fantasy",2
+"Action, Adventure, Comedy",1
+"Drama, Mystery, Romance",1
+"Comedy, Drama, Musical",5
+"Action, Thriller",49
+Thriller,17
+"Romance, Thriller",8
+"Drama, Comedy, Romance",1
+"Action, Crime, Mystery",2
+"Action, Comedy, Romance",3
+"Drama, Family",10
+"Action, Comedy",22
+"Action, Crime, Thriller",17
+"Adventure, Comedy, Drama",1
+"Comedy, Drama, Music",1
+"Comedy, Drama, Fantasy",2
+"Drama, Musical, Thriller",1
+"Action, Drama, Musical",2
+Horror,5
+Action,43
+"Action, Romance",6
+"Musical, Drama, Romance",1
+"Action, Drama, Mystery",5
+"Comedy, Mystery, Thriller",1
+"Drama, Thriller",13
+"Action, Drama, Sport",2
+"Action, Romance, Thriller",5
+"Crime, Mystery, Romance",1
+"Action, Comedy, Crime",4
+"Action, Adventure, Sci-Fi",1
+"Adventure, Drama, Musical",1
+"Drama, Fantasy",1
+"Comedy, Horror",14
+"Comedy, Musical, Romance",1
+Crime,3
+"Crime, Drama, Thriller",6
+"Drama, Sport",6
+"Action, Sci-Fi",1
+"Drama, History, Romance",1
+"Comedy, Family, Romance",1
+"Crime, Drama, Mystery",3
+"Comedy, Romance, Sport",3
+"Drama, Mystery",1
+"Action, Adventure, Drama",3
+"Action, Adventure, Romance",1
+"Action, Crime",4
+"Action, Drama, Sci-Fi",1
+"Comedy, Fantasy",2
+Family,4
+"Comedy, Family, Thriller",1
+"Action, Family",2
+"Comedy, Drama, Family",4
+"Action, Adventure, Thriller",1
+Mystery,3
+"Drama, History",1
+"Horror, Thriller",6
+"Drama, History, Music",1
+"Action, Comedy, Thriller",2
+"Crime, Drama, War",1
+"Mystery, Thriller",1
+"Action, Sport",1
+"Adventure, Drama, Romance",1
+"Comedy, Crime, Thriller",2
+"Adventure, Family, Mystery",1
+"Drama, Sport, Thriller",1
+"Adventure, Horror, Thriller",1
+"Comedy, Crime, Drama",1
+"Action, Musical, Thriller",1
+"Comedy, History",1
+"Crime, Thriller",2
+"Comedy, Crime",1
+"Comedy, Sci-Fi, Thriller",2
+"Drama, Horror, Mystery",2
+"Action, Comedy, Horror",1

@@ -1,0 +1,11 @@
+genre,AVG(rating.males_allages_avg_vote)
+Drama,6.276919399428898
+"Drama, Romance",6.25481910225969
+"Crime, Drama",6.222486965974054
+"Comedy, Drama",6.186853181639943
+"Comedy, Drama, Romance",6.118883558199284
+"Action, Crime, Drama",5.826412210482677
+"Comedy, Romance",5.789673042354401
+"Drama, Thriller",5.731528190193969
+Comedy,5.529078381541615
+Horror,4.28738976513057

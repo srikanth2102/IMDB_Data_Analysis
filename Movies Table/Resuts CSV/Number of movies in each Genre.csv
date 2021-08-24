@@ -1,0 +1,101 @@
+genre,COUNT(genre)
+Drama,12543
+Comedy,7693
+"Comedy, Drama",4039
+"Drama, Romance",3455
+"Comedy, Romance",2508
+"Comedy, Drama, Romance",2293
+Horror,2268
+"Drama, Thriller",1348
+"Crime, Drama",1343
+"Action, Crime, Drama",1310
+Thriller,1245
+"Horror, Thriller",1214
+"Crime, Drama, Thriller",1021
+"Action, Drama",881
+"Drama, War",761
+Action,715
+"Crime, Drama, Mystery",667
+"Action, Adventure, Drama",608
+"Action, Adventure, Comedy",606
+"Comedy, Crime",592
+Western,588
+"Comedy, Horror",573
+"Action, Thriller",569
+"Horror, Mystery, Thriller",564
+"Comedy, Crime, Drama",561
+"Action, Comedy, Crime",539
+"Action, Crime, Thriller",505
+"Biography, Drama",494
+"Action, Comedy",463
+"Crime, Drama, Film-Noir",442
+"Drama, Family",441
+Romance,439
+"Biography, Drama, History",436
+"Action, Drama, Thriller",433
+"Animation, Adventure, Comedy",429
+"Comedy, Drama, Family",419
+"Drama, Mystery, Thriller",412
+"Drama, History",393
+"Drama, Horror, Mystery",379
+"Crime, Drama, Romance",370
+"Horror, Sci-Fi",369
+"Drama, Horror, Thriller",357
+"Crime, Thriller",352
+"Comedy, Musical",330
+"Comedy, Musical, Romance",324
+"Comedy, Family",320
+"Action, Comedy, Drama",317
+"Animation, Action, Adventure",312
+"Mystery, Thriller",299
+"Action, Drama, Romance",291
+Family,291
+"Drama, Romance, War",276
+"Comedy, Drama, Music",275
+"Adventure, Drama",273
+"Drama, Sport",271
+"Comedy, Drama, Fantasy",268
+"Drama, Music",267
+"Drama, Mystery",259
+Sci-Fi,257
+"Action, Adventure, Fantasy",256
+"Action, Adventure, Sci-Fi",251
+Adventure,250
+"Drama, History, War",232
+"Drama, Horror",231
+"Action, Adventure, Crime",229
+"Comedy, Fantasy",222
+"Adventure, Comedy, Drama",219
+"Drama, Romance, Thriller",218
+"Drama, Musical, Romance",215
+"Horror, Sci-Fi, Thriller",210
+"Action, Sci-Fi",209
+"Drama, History, Romance",208
+"Action, Crime",208
+"Adventure, Comedy, Family",208
+"Horror, Mystery",207
+"Crime, Mystery, Thriller",201
+"Drama, Fantasy, Horror",200
+"Action, Adventure",200
+"Drama, Music, Romance",200
+"Action, Drama, History",200
+"Biography, Crime, Drama",195
+"Drama, Mystery, Romance",195
+"Drama, Fantasy",194
+"Animation, Adventure, Family",180
+"Crime, Drama, Horror",178
+"Comedy, Drama, Musical",178
+"Comedy, Sci-Fi",177
+"Adventure, Drama, Romance",174
+"Adventure, Comedy",173
+"Biography, Drama, Romance",167
+Crime,167
+"Drama, Sci-Fi",159
+"Comedy, Crime, Mystery",157
+"Action, Drama, War",157
+"Comedy, Family, Fantasy",156
+"Biography, Drama, Music",155
+"Comedy, Music",154
+"Comedy, Fantasy, Romance",149
+"Adventure, Family, Fantasy",148
+"Action, Sci-Fi, Thriller",145
