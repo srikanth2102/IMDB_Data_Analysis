@@ -69,6 +69,11 @@ The output of the above query is shown here.
 
 ![image](https://user-images.githubusercontent.com/66214509/130829100-8ec6562a-b88d-4bdf-b149-10f654be7de7.png)
 
+## Sample Visualization
+![IMDb Data Analysis](https://user-images.githubusercontent.com/66214509/130843587-fe3cac81-aece-44d9-b9cf-a9d77a129a78.png)
+
+We all knew that the number of movies released during 2019-2020 was less due to the Covid-19 outbreak. The above graph captures that trend perfectly as we a dip in the number of movies releases in 2019 and 2020.
+
 ## Overview
 * We first create a mysql database containing all these four tables.
 * Then we write queries to extract the details we want from the database.
