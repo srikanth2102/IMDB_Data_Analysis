@@ -5,7 +5,8 @@ In this we make of publicly available data from IMDB to get insights from the da
 * The data used in this project is taken from [Kaggle](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset).
 * This data contains details of movies with more than 100 votes in IMDb as of 01/01/2020.
 * This dataset contains four tables namely IMDb movies, IMDb names, IMDb ratings, IMDb title_principals
-* | Table               | Number of records |
+
+  | Table               | Number of records |
   |------               | ------            | 
   |IMDb movies          | 85,855            |
   |IMDb ratings         | 85,855            |
