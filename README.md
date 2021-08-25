@@ -66,6 +66,7 @@ GROUP BY genre
 ORDER BY AVG(rating.males_allages_avg_vote) DESC;
 ```
 The output of the above query is shown here.
+
 ![image](https://user-images.githubusercontent.com/66214509/130829100-8ec6562a-b88d-4bdf-b149-10f654be7de7.png)
 
 ## Overview
