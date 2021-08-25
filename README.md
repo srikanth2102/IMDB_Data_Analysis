@@ -47,6 +47,27 @@ We want to find the answers for the following data. We make use of SQL queries t
 * Finding all the movies of Leonardo Dicaprio, Sameual L. Johnson and Christopher Nolan.
 * Finding the details of the crew members of the film Pulp Fiction, Inception and Nayakan(a tamil movie).
 
+## Sample Query
+```
+-- genre that men like the most among the top 10 genre
+SELECT movies.genre, AVG(rating.males_allages_avg_vote)
+FROM (movies
+INNER JOIN rating
+ON rating.imdb_title_id = movies.imdb_title_id)
+INNER JOIN  (
+    SELECT genre
+    FROM movies
+    GROUP BY genre
+    ORDER BY COUNT(genre) DESC
+    LIMIT 10
+) AS temp_table
+ON temp_table.genre = movies.genre
+GROUP BY genre
+ORDER BY AVG(rating.males_allages_avg_vote) DESC;
+```
+The output of the above query is shown here.
+![image](https://user-images.githubusercontent.com/66214509/130829100-8ec6562a-b88d-4bdf-b149-10f654be7de7.png)
+
 ## Overview
 * We first create a mysql database containing all these four tables.
 * Then we write queries to extract the details we want from the database.
